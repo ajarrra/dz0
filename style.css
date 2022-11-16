@@ -37,6 +37,13 @@ nav{
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  text-align: justify;
  padding: 25px;
- 
+
 
 }
+ img{
+    height: 400px;
+    width: 600px;
+    margin: 50px;
+    margin-left: 170px;
+    border-radius: 25px;
+ }
