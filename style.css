@@ -83,3 +83,25 @@ nav{
      color: olive;
      font-weight: 800;
  }
+
+ .ccc p{
+    font-size: 22px;
+    margin-left: 850px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(155, 104, 11);
+    text-align: justify;
+ }
+
+ .cherry h2{
+    font-size: 35px;
+    margin-left: 1200px;
+     color: olive;
+     font-weight: 800;
+ }
+ .cherry p{
+    font-size: 22px;
+    margin-left: 1200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(155, 104, 11);
+    text-align: justify;
+ }
