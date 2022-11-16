@@ -113,3 +113,24 @@ nav{
    text-align: justify;
    margin-left: 35px;   
 }
+form{
+    display: block;
+   text-align: center;
+}
+form input{
+    text-align: center;
+    padding: 10px 55px;
+    margin-left: 40%;
+    border: 2px solid olivedrab;
+    border-radius: 15px;
+}
+.name p{
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+  color: rgb(70, 70, 12);
+}
+
+.name input{
+    margin: 0 auto;
+}
