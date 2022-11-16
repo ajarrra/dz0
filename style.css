@@ -105,3 +105,11 @@ nav{
     color: rgb(155, 104, 11);
     text-align: justify;
  }
+
+.final p{
+   color:olive;
+   font-size: 22px;
+   margin-top: 50px;
+   text-align: justify;
+   margin-left: 35px;   
+}
