@@ -55,3 +55,25 @@ nav{
     font-weight: 800;
 
  }
+ .carrot p{
+    font-size: 22px;
+    margin-left: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(155, 104, 11);
+    text-align: justify;
+ }
+
+ .apple h2{
+    font-size: 35px;
+   margin-left: 500px;
+    color: olive;
+    font-weight: 800;
+ }
+
+ .apple p{
+    font-size: 22px;
+    margin-left: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(155, 104, 11);
+    text-align: justify;
+ }
