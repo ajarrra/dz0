@@ -47,3 +47,11 @@ nav{
     margin-left: 170px;
     border-radius: 25px;
  }
+
+ .carrot h2{
+    font-size: 35px;
+    margin-left: 25px;
+    color: olive;
+    font-weight: 800;
+
+ }
