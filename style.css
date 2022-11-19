@@ -150,3 +150,13 @@ form input{
     border: 2px solid olive;
     border-radius: 25px;
 }
+q{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    text-align: justify;
+   color: rgb(138, 101, 51);
+   font-weight: 600;
+   padding-left: 50px;
+   margin-top: 50px;
+}
