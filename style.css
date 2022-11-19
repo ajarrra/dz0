@@ -149,6 +149,7 @@ form input{
     margin-left: 200px;
     border: 2px solid olive;
     border-radius: 25px;
+
 }
 q{
     font-size: 25px;
@@ -159,10 +160,13 @@ q{
    font-weight: 600;
    padding-left: 50px;
    margin-top: 50px;
+   text-shadow: 0 0 25px  rgb(119, 119, 18);
+  
 }
 .potato{
     color: olive;
     font-size: 25px;
     text-align: justify;
     margin: 15px;
+   
 }
