@@ -170,3 +170,24 @@ q{
     margin: 15px;
    
 }
+table{
+    border: 5px solid olive;
+    padding: 35px 35px;
+    text-align: center;
+    margin-left: 440px;
+}
+
+td{
+    border: 3px solid olive;
+    padding: 55px 70px;
+    margin: 50px;
+    font-size: 30px;
+    color: orange;
+    border-radius: 10px;
+    background-color: rgb(232, 232, 114);
+}
+
+td:hover{
+    background-color:  rgb(116, 116, 7);
+    color: rgb(234, 192, 114);
+}
