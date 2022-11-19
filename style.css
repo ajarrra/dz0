@@ -185,9 +185,19 @@ td{
     color: orange;
     border-radius: 10px;
     background-color: rgb(232, 232, 114);
+    font-weight: 700;
 }
 
 td:hover{
     background-color:  rgb(116, 116, 7);
     color: rgb(234, 192, 114);
+}
+
+.butter{
+    color: olive;
+    font-size: 25px;
+    text-align: justify;
+    margin: 15px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
