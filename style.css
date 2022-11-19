@@ -143,3 +143,10 @@ form input{
     font-size: 30px;
     color: rgb(70, 70, 12);
 }
+
+.potato-img img{
+    height: 500px;
+    margin-left: 200px;
+    border: 2px solid olive;
+    border-radius: 25px;
+}
