@@ -202,3 +202,15 @@ td:hover{
     margin-top: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.carrot-img img{
+    height: 700px;
+   width: 1830px;
+   margin: 0 auto;
+}
+
+.carrot p{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;   
+}
