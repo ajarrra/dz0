@@ -278,3 +278,33 @@ td:hover {
     text-align: center;
     margin-top: 60px;
 }
+
+
+.tr button{
+   padding: 100px 100px;
+   margin-top: 100px;
+   margin-left: 200px;
+   border-radius: 150px;
+   border: 2px solid green;
+   font-weight: 600;
+   color: aliceblue;
+   background-color: rgb(116, 179, 22);
+   font-size: 25px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+   transition-property: all;
+   transition-duration: 1500ms;
+    transition-timing-function: ease-out;
+    transition-delay: 0ms;
+}
+ .tr button:hover{
+    border: 2px solid red;
+    background-color: rgb(229, 66, 66);
+    border-radius: 5px;
+    transform: rotate(180deg);
+ }
+
+.tr{
+    margin-top: 100px;
+}
