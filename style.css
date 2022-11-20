@@ -345,3 +345,10 @@ td:hover {
     border-radius: 5px;
     transform: rotate(180deg);
 }
+
+
+form inputtt{
+    margin-top: 150px;
+    background-color: white;
+    border: none;
+}
