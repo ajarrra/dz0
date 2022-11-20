@@ -214,3 +214,22 @@ td:hover{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float: left;   
 }
+.carrot-button button{
+    border: 2px solid olive;
+    padding: 45px 80px;
+    color: olive;
+    font-size: 25px;
+    border-radius: 45px;
+    background-color: orange;
+    font-weight: 700;
+    box-shadow: 0 0 25px olive;
+}
+.carrot-button{
+    text-align: center;
+}
+
+.carrot-button button:hover{
+    background-color: olive;
+    border: 2px solid orange;
+    color: orange;
+}
